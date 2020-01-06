@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Index
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Main site: [FrankieSanzica.com](https://frankiesanzica.com).
 
-## Commands
+## Linux
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* OS
+  * CentOS
+* Webservers
+  * Nginx
 
-## Project layout
+## DevOps/SRE
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Infrastructure as code
+  * Terraform
+* Cloud
+  * AWS
+* Configuration Management
+  * Ansible 
+* Containers
+  * Docker
+  * Kubernetes
+
