@@ -1,23 +1,23 @@
 # Index
 
-Main site: [FrankieSanzica.com](https://frankiesanzica.com).
+Main site: [FrankieSanzica.com](https://frankiesanzica.com)
 
 ## Linux
 
 * OS
-  * CentOS
+    * CentOS
 * Webservers
-  * Nginx
+    * Nginx
 
 ## DevOps/SRE
 
 * Infrastructure as code
-  * Terraform
+    * Terraform
 * Cloud
-  * AWS
+    * AWS
 * Configuration Management
-  * Ansible 
+    * Ansible 
 * Containers
-  * Docker
-  * Kubernetes
+    * Docker
+    * Kubernetes
 
