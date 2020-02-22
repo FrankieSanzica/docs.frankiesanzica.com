@@ -1,3 +1,7 @@
+Title:   Resources
+Summary: Useful System Engineer/DevOps Resources
+Authors: Frankie Sanzica
+
 # Resources
 
 # Official Docs
