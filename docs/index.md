@@ -1,4 +1,4 @@
-# Index
+> Speramus meliora; Resurget cineribus; We hope for better things; It will rise from the ashes
 
 Main site: [FrankieSanzica.com](https://frankiesanzica.com)
 

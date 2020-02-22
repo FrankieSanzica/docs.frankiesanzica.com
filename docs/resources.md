@@ -1,6 +1,3 @@
-> “Speramus meliora; Resurget cineribus;
-> We hope for better things; It will rise from the ashes”
-
 # Official Docs
 
 * [Splunk](https://docs.splunk.com/Documentation/Splunk)
