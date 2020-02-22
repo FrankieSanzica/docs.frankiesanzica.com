@@ -1,14 +1,25 @@
-# Linux Admin/Engineer
+# Linux Administrator/Engineer
 
 * OS
-    * CentOS
+    * CentOS/RHEL
+* Stacks
+    * LAMP
+    * LEMP
 * Webservers
-    * Nginx
+    * Nginx + PHP-FPM
+    * Apache
+* Databases
+    * MySQL/MariaDB
+* Networking
+    * DNS
+* Information Security
 
 # DevOps/SRE
 
-* Infrastructure as code
+* Infrastructure as code (IAC)
     * Terraform
+* Version Control
+    * Git
 * Cloud
     * AWS
 * Configuration Management
@@ -16,4 +27,4 @@
 * Containers
     * Docker
     * Kubernetes
-
+* Python
