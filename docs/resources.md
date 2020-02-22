@@ -1,7 +1,5 @@
-# Resources
-
-> “Speramus meliora; Resurget cineribus;\
-We hope for better things; It will rise from the ashes”
+> “Speramus meliora; Resurget cineribus;
+> We hope for better things; It will rise from the ashes”
 
 # Official Docs
 
