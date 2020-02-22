@@ -2,8 +2,6 @@ Title:   Resources
 Summary: Useful System Engineer/DevOps Resources
 Authors: Frankie Sanzica
 
-# Resources
-
 # Official Docs
 
 * [Splunk](https://docs.splunk.com/Documentation/Splunk)
