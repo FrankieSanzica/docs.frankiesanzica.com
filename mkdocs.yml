@@ -1,5 +1,6 @@
 site_name: Frankie Sanzica's Docs
 theme: readthedocs
 nav:
+    - Main Site: https://frankiesanzica.com
     - Home: index.md
     - Resources: resources.md

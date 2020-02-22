@@ -1,13 +1,11 @@
-[FrankieSanzica.com](https://frankiesanzica.com)
-
-## Linux Admin/Engineer
+# Linux Admin/Engineer
 
 * OS
     * CentOS
 * Webservers
     * Nginx
 
-## DevOps/SRE
+# DevOps/SRE
 
 * Infrastructure as code
     * Terraform
