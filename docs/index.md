@@ -1,8 +1,6 @@
-> Speramus meliora; Resurget cineribus; We hope for better things; It will rise from the ashes
+[FrankieSanzica.com](https://frankiesanzica.com)
 
-Main site: [FrankieSanzica.com](https://frankiesanzica.com)
-
-## Linux
+## Linux Admin/Engineer
 
 * OS
     * CentOS
