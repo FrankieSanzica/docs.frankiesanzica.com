@@ -1,6 +1,9 @@
 site_name: Linux Engineer/DevOps Docs
 theme: readthedocs
+site_author: Frankie Sanzica
+site_description: Linux Engineer/DevOps Docs
 nav:
     - Main Site: https://frankiesanzica.com
     - Home: index.md
     - Resources: resources.md
+google_analytics: ['UA-39098954-2', 'docs.frankiesanzica.com']
