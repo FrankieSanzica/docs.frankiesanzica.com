@@ -1,3 +1,10 @@
+Developer ->
+Admin -> Engineer -> Architect
+      -> Networking
+      -> InfoSec
+      -> Databases
+      -> Storage
+
 # Linux Administrator/Engineer
 
 * OS

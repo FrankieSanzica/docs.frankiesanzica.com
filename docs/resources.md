@@ -110,6 +110,10 @@ Authors: Frankie Sanzica
 * [Google Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * [Pets vs Cattle](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
 
+## Cloud Native
+
+* [Microsoft - Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+
 ## API
 
 * [Zapier - Intro to APIs](https://zapier.com/learn/apis/)
@@ -122,6 +126,8 @@ Authors: Frankie Sanzica
 * [AWS IP Ranges](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html)
 * [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 * [AWS Blog](https://aws.amazon.com/blogs/aws/)
+* [AWS Docs](https://docs.aws.amazon.com/index.html#lang/en_us)
+* [AWS Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
 * [Git - Open Guide AWS](https://github.com/open-guides/og-aws)
 * [Git - Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
@@ -158,6 +164,11 @@ Authors: Frankie Sanzica
 * [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 * [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way/)
 
+#### Gitops
+
+* [Weaveworks - Guide to GitOps](https://www.weave.works/technologies/gitops/)
+* [Weaveworks - What is GitOps](https://www.weave.works/blog/what-is-gitops-really)
+
 ## Python
 
 * [Official Tutorial](https://docs.python.org/3/tutorial/)
@@ -174,6 +185,8 @@ Authors: Frankie Sanzica
 * [Favicon](https://favicon.io/)
 * [Mozilla HTML Style Guide](https://mozweb.readthedocs.io/en/latest/reference/html-style.html)
 * [Mozilla CSS Style Guide](https://mozweb.readthedocs.io/en/latest/reference/css-style.html)
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Code Pen](https://codepen.io/#)
 
 ## JAMstack
 
@@ -194,7 +207,7 @@ Authors: Frankie Sanzica
 ## Yearly Surveys
 
 * [Hackerrank Developer Skills](https://research.hackerrank.com/developer-skills/2019)
-* [GitHub Developer Survey](https://insights.stackoverflow.com/survey/2018)
+* [GitHub Developer Survey](https://insights.stackoverflow.com/survey/2019)
 * [Jetbrains Python Developers Survey](https://www.jetbrains.com/research/python-developers-survey-2018/)
 * [LinkedIn Most Promising Jobs](https://blog.linkedin.com/2019/january/10/linkedins-most-promising-jobs-of-2019)
 * [Glassdoor Best Places to Work](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm)
@@ -230,6 +243,13 @@ Authors: Frankie Sanzica
 * [/r/Networking Wiki](https://www.reddit.com/r/networking/wiki/index)
 * [/r/NetSec Wiki](https://www.reddit.com/r/netsec/wiki/index)
 * [/r/NetSecStudents Wiki](https://www.reddit.com/r/netsecstudents/wiki/index)
+
+## Tech Blogs
+
+* [Air BnB](https://airbnb.io/)
+* [Twitter](https://blog.twitter.com/engineering/en_us.html)
+* [Uber](https://eng.uber.com/)
+* [Netflix](https://netflixtechblog.com/)
 
 # Foundations
 
